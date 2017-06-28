@@ -2,9 +2,10 @@
 Tab completion for python applications based on [click cli framework.](http://click.pocoo.org)
 
 <hr>
-[![PyPi version](https://img.shields.io/pypi/v/xonsh-vox-tabcomplete.svg?style=flat-square)](https://pypi.python.org/pypi/xonsh-vox-tabcomplete)
-[![PyPi license](https://img.shields.io/pypi/l/xonsh-vox-tabcomplete.svg?style=flat-square)](https://pypi.python.org/pypi/xonsh-vox-tabcomplete)
-[![PyPi license](https://img.shields.io/pypi/pyversions/xonsh-vox-tabcomplete.svg?style=flat-square)](https://pypi.python.org/pypi/xonsh-vox-tabcomplete)  
+
+![PyPi version](https://img.shields.io/pypi/v/xonsh-vox-tabcomplete.svg?style=flat-square)
+![PyPi license](https://img.shields.io/pypi/l/xonsh-vox-tabcomplete.svg?style=flat-square)
+![PyPi license](https://img.shields.io/pypi/pyversions/xonsh-vox-tabcomplete.svg?style=flat-square)
 
 This tab completion utilises generic --help messages of `click` framework 
 to create command, subcommand and flag tab completion for any application 
